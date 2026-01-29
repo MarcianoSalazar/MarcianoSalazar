@@ -32,10 +32,10 @@
     <img src="https://images.credly.com/size/140x140/images/4a2ec756-53d8-465e-9706-26d00f4c587f/BadgeEmblem_DigitalLiteracy.png"/>
   </a>
   <a href="https://www.credly.com/badges/f4fdea7b-b5a7-47c2-9bc8-adc74e6deb69/public_url">
-    <img src="https://images.credly.com/size/140x140/images/5909a359-2f38-42b8-bb0c-719887034b48/BadgeEmblem_DigitalMindset.png"/>
+    <img src="https://images.credly.com/size/140x140/images/bd8fbf44-68d6-4e84-92fe-4991e1a339c0/BadgeEmblem_LifelongProfessionalSkills.png"/>
   </a>
   <a href="https://www.credly.com/badges/80b74941-7e14-42ca-ba26-92f3b79fee1a/public_url">
-    <img src="https://images.credly.com/size/140x140/images/bd8fbf44-68d6-4e84-92fe-4991e1a339c0/BadgeEmblem_LifelongProfessionalSkills.png"/>
+    <img src="https://images.credly.com/size/140x140/images/5909a359-2f38-42b8-bb0c-719887034b48/BadgeEmblem_DigitalMindset.png"/>
   </a>
 </p>
 
