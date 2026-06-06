@@ -3,7 +3,7 @@
 <h3 align="center">2nd Year CS Student | Aspiring Data Scientist | Data & ML Enthusiast</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=500&color=00FF00&center=true&vCenter=true&width=600&lines=Learning+AI+and+Machine+Learning;Building+Innovative+Projects;Exploring+New+Technologies" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=500&color=00FF00&center=true&vCenter=true&width=600&lines=Learning+Data+and+Machine+Learning;Building+Innovative+Projects;Exploring+New+Technologies" alt="Typing SVG"/>
 </p>
 
 ---
