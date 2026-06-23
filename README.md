@@ -9,7 +9,7 @@
 ---
 
 ### 💻 My Skill Stack
-Original file line numberOriginal file lineDiff line numberDiff line change@@ -10,15 +10,7 @@### 💻 My Skill Stack<p align="center">  <img src="https://img.shields.io/badge/Python-333333?style=for-the-badge&logo=python&logoColor=yellow" />  <img src="https://img.shields.io/badge/C%23-333333?style=for-the-badge&logo=c-sharp&logoColor=purple" />  <img src="https://img.shields.io/badge/HTML5-333333?style=for-the-badge&logo=html5&logoColor=orange" />  <img src="https://img.shields.io/badge/CSS3-333333?style=for-the-badge&logo=css3&logoColor=blue" />  <img src="https://img.shields.io/badge/Git-333333?style=for-the-badge&logo=git&logoColor=orange" />  <img src="https://img.shields.io/badge/GitHub-333333?style=for-the-badge&logo=github&logoColor=white" />  <img src="https://img.shields.io/badge/MySQL-333333?style=for-the-badge&logo=mysql&logoColor=blue" /></p>
+<p align="center">  <img src="https://img.shields.io/badge/Python-333333?style=for-the-badge&logo=python&logoColor=yellow" />  <img src="https://img.shields.io/badge/C%23-333333?style=for-the-badge&logo=c-sharp&logoColor=purple" />  <img src="https://img.shields.io/badge/HTML5-333333?style=for-the-badge&logo=html5&logoColor=orange" />  <img src="https://img.shields.io/badge/CSS3-333333?style=for-the-badge&logo=css3&logoColor=blue" />  <img src="https://img.shields.io/badge/Git-333333?style=for-the-badge&logo=git&logoColor=orange" />  <img src="https://img.shields.io/badge/GitHub-333333?style=for-the-badge&logo=github&logoColor=white" />  <img src="https://img.shields.io/badge/MySQL-333333?style=for-the-badge&logo=mysql&logoColor=blue" /></p>
 
 ---
 
